@@ -419,6 +419,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Z3BGLCCPGN;
 				INFOPLIST_FILE = ScrollView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.ScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -432,6 +433,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Z3BGLCCPGN;
 				INFOPLIST_FILE = ScrollView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.ScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +518,7 @@
 				685BDA761E97A2BE0071006D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		685BDA771E97A2BE0071006D /* Build configuration list for PBXNativeTarget "ScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +527,7 @@
 				685BDA791E97A2BE0071006D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		685BDA7A1E97A2BE0071006D /* Build configuration list for PBXNativeTarget "ScrollViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +536,7 @@
 				685BDA7C1E97A2BE0071006D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
